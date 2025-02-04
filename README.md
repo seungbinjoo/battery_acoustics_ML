@@ -30,3 +30,5 @@ scikit-learn
 ```
 pip install -U scikit-learn
 ```
+
+![poster](poster.png)
