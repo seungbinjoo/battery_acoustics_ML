@@ -8,3 +8,23 @@ This project aims to combine acoustic emission, a cost- effective, non-invasive 
 - `ML for Long-Term Cycling Experiments.ipynb`: Juptyer notebook which contains experimentation with ML applied to longer cycling experiments.
 
 ## Dependencies
+numpy
+```
+conda install numpy
+```
+matplotlib
+```
+conda install matplotlib
+```
+pandas
+```
+pip install pandas
+```
+TensorFlow
+```
+pip install tensorflow
+```
+scikit-learn
+```
+pip install -U scikit-learn
+```
